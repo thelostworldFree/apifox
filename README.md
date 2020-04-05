@@ -1,7 +1,7 @@
-# apifox
+# Apifox
 Apifox = Postman + Swagger + Mock + 代码生成
 
-网址：https://www.apifox.cn
+Apifox 下载地址：https://www.apifox.cn
 
 接口文档、调试、Mock、自动化测试、代码生成，提升 10 倍效率！
 
